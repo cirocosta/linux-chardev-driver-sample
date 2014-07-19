@@ -3,6 +3,10 @@
 *.ko
 *.mod.c
 *.order
-myDev
+
 .tmp_versions/
+
 Module.symvers
+
+test
+myDev
